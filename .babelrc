@@ -1,0 +1,6 @@
+{
+  // "presets": ["@babel/preset-env", "@babel/react"],
+  // "test": ["jest"],
+  "presets": ["env", "react"],
+  "plugins": ["transform-class-properties", "transform-object-rest-spread"]
+}
